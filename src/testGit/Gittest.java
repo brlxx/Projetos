@@ -1,6 +1,6 @@
 package testGit;
 
-public class ;Gittest {
+public class Gittest {
     public static void main(String[] args){
         int a  = 10;
         int b = 10;
